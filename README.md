@@ -2,6 +2,10 @@
 
 Welcome to my project portfolio! This repository showcases my journey in Data Science, Machine Learning, Deep Learning, Computer Vision, Generative AI, and Quantitative Research through academic projects, hackathons, virtual internships, and real-world case studies.
 
+📑 Looking for a comprehensive overview of my background, achievements, certifications, and project highlights?
+
+**Explore my [Professional Portfolio](https://canva.link/9zuul492azfqo4d).**
+
 ---
 | No | Project                                                      | Category                                 | Deskripsi Singkat                                                                                                                                                                                        | Tech Stack                                                           | Role                                         | Source Repository                                                                                                                                       |
 | -: | ------------------------------------------------------------ | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
